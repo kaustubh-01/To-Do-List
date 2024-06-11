@@ -8,14 +8,9 @@ To Do List is a simple, user-friendly task management application built with Rea
 ## Features
 
 - **Add Tasks**: Quickly add new tasks to your list.
-- **Edit Tasks**: Modify existing tasks to update their details.
-- **Delete Tasks**: Remove tasks that are no longer needed.
 - **Mark as Completed**: Mark tasks as completed to keep track of your progress.
+- **Delete Tasks**: Remove tasks that are no longer needed.
 - **Responsive Design**: Optimized for both desktop and mobile devices using Tailwind CSS.
-
-## Demo
-
-[Link to Demo](#) *(Replace with actual link)*
 
 ## Screenshots
 
