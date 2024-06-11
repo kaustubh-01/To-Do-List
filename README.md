@@ -87,26 +87,6 @@ The build output will be in the `build` directory.
 - **Tailwind CSS**: Utility-first CSS framework for rapid UI development.
 - **React Icons**: Collection of popular icons for React.
 
-## Folder Structure
-
-\```plaintext
-.
-├── public
-│   ├── index.html
-│   └── ...
-├── src
-│   ├── components
-│   │   ├── Task.js
-│   │   ├── TaskList.js
-│   │   └── ...
-│   ├── App.js
-│   ├── index.js
-│   ├── styles.css
-│   └── ...
-├── package.json
-└── ...
-\```
-
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any changes.
