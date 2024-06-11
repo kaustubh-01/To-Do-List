@@ -1,9 +1,9 @@
 
-# TO DO List
+# To Do List
 
 ## Description
 
-TO DO List is a simple, user-friendly task management application built with React and Tailwind CSS. It allows users to add, edit, delete, and mark tasks as completed, helping them organize their daily activities efficiently.
+To Do List is a simple, user-friendly task management application built with React and Tailwind CSS. It allows users to add, edit, delete, and mark tasks as completed, helping them organize their daily activities efficiently.
 
 ## Features
 
