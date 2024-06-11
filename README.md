@@ -77,9 +77,9 @@ The build output will be in the `build` directory.
 
 1. Open the application in your browser.
 2. Use the input field to add new tasks.
-3. Click on a task to edit it.
+3. Click the checkbox to mark tasks as completed.
 4. Use the delete button to remove tasks.
-5. Click the checkbox to mark tasks as completed.
+
 
 ## Technologies Used
 
@@ -119,10 +119,6 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 4. Commit your changes (`git commit -m 'Add some feature'`).
 5. Push to the branch (`git push origin feature/your-feature-name`).
 6. Open a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contact
 
