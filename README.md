@@ -8,19 +8,14 @@ To Do List is a simple, user-friendly task management application built with Rea
 ## Features
 
 - **Add Tasks**: Quickly add new tasks to your list.
-- **Edit Tasks**: Modify existing tasks to update their details.
-- **Delete Tasks**: Remove tasks that are no longer needed.
 - **Mark as Completed**: Mark tasks as completed to keep track of your progress.
+- **Delete Tasks**: Remove tasks that are no longer needed.
 - **Responsive Design**: Optimized for both desktop and mobile devices using Tailwind CSS.
-
-## Demo
-
-[Link to Demo](#) *(Replace with actual link)*
 
 ## Screenshots
 
 ### Initial View
-![Initial View](./path/to/your/screenshots/Screenshot%20(27).png)
+![Initial View](./src/assets/to-do-app-01.png)
 
 ### Adding Tasks
 ![Adding Tasks](./path/to/your/screenshots/Screenshot%20(28).png)
@@ -82,35 +77,15 @@ The build output will be in the `build` directory.
 
 1. Open the application in your browser.
 2. Use the input field to add new tasks.
-3. Click on a task to edit it.
+3. Click the checkbox to mark tasks as completed.
 4. Use the delete button to remove tasks.
-5. Click the checkbox to mark tasks as completed.
+
 
 ## Technologies Used
 
 - **React**: JavaScript library for building user interfaces.
 - **Tailwind CSS**: Utility-first CSS framework for rapid UI development.
 - **React Icons**: Collection of popular icons for React.
-
-## Folder Structure
-
-\```plaintext
-.
-├── public
-│   ├── index.html
-│   └── ...
-├── src
-│   ├── components
-│   │   ├── Task.js
-│   │   ├── TaskList.js
-│   │   └── ...
-│   ├── App.js
-│   ├── index.js
-│   ├── styles.css
-│   └── ...
-├── package.json
-└── ...
-\```
 
 ## Contributing
 
@@ -124,10 +99,6 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 4. Commit your changes (`git commit -m 'Add some feature'`).
 5. Push to the branch (`git push origin feature/your-feature-name`).
 6. Open a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contact
 
