@@ -23,8 +23,6 @@ To Do List is a simple, user-friendly task management application built with Rea
 ### Completed Tasks
 ![Completed Tasks](./src/assets/to-do-app-06.png)
 
-*(Ensure the paths to the images are correct relative to the README file location)*
-
 ## Getting Started
 
 ### Prerequisites
